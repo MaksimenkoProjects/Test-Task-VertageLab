@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504769406069",
+    "project_id": "testtaskvertagelab-309409",
+    "storage_bucket": "testtaskvertagelab-309409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504769406069:android:ce0d55d57ed072f872c43c",
+        "android_client_info": {
+          "package_name": "com.example.testtaskvertagelab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504769406069-k207btcj92e06ga5cel7qqa1b8crhhfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjhK1GhvMF7lV86TZBv1ZaalO6qmUqQhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504769406069-k207btcj92e06ga5cel7qqa1b8crhhfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

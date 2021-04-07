@@ -2,4 +2,5 @@
 <resources>
     <dimen name="margin_app">16dp</dimen>
     <dimen name="login_title_size">32sp</dimen>
+    <dimen name="login_edittext_text_size">24sp</dimen>
 </resources>

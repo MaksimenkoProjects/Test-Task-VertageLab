@@ -12,12 +12,12 @@ interface ActivityModules {
 
 
     @FragmentScope
-    @ContributesAndroidInjector(modules = [ViewModelModules::class])
+    @ContributesAndroidInjector(modules = [ViewModelModules::class, LoginFragmentModules::class])
     fun loginFragment(): LoginFragment
 
 
     @FragmentScope
-    @ContributesAndroidInjector(modules = [ViewModelModules::class])
+    @ContributesAndroidInjector(modules = [ViewModelModules::class, MapFragmentModules::class])
     fun mapFragment(): MapFragment
 
 

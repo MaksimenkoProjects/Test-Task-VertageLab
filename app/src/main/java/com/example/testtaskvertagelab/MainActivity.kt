@@ -9,6 +9,8 @@ class MainActivity : DaggerAppCompatActivity() {
 
     lateinit var navController: NavController
 
+    val test: String = "Hello"
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
